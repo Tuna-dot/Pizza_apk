@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="Burgers">Burgers</string>
+    <string name="Chicken">Chicken</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Salads">salads</string>
+</resources>

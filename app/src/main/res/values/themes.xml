@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <item name="android:windowSplashScreenBackground">@drawable/gradient_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_logotip</item>
+        <item name="android:windowSplashScreenAnimationDuration">450</item>
+    </style>
+
+    <style name="Theme.SplashScreen" parent="Base.SplashScreen" />
+
+</resources>

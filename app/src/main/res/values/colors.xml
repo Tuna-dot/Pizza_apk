@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color">#090A0A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF1F3C</color>
+    <color name="pink">#F8828F</color>
+    <color name="text_hint">#1C2439</color>
+    <color name="btn_color">#F71B33</color>
+    <color name="gray">#DEDEDE</color>
+    <color name="edit_background">#FFF6F5</color>
+    <color name="background_card">#C4C4C4</color>
+
+</resources>
