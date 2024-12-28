@@ -4,4 +4,6 @@
     <string name="Chicken">Chicken</string>
     <string name="Pizza">Pizza</string>
     <string name="Salads">salads</string>
+    <string name="Salad_Burger">Salad Burger</string>
+    <string name="Chicken_Burger">Chicken Burger</string>
 </resources>

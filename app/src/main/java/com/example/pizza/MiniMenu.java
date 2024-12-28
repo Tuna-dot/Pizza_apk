@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 public class MiniMenu implements Serializable   {
     private String textView;
-    private CardView cardView;
+
 
     private int imageView;
 
@@ -25,13 +25,7 @@ public class MiniMenu implements Serializable   {
         this.textView = textView;
     }
 
-    public CardView getCardView() {
-        return cardView;
-    }
 
-    public void setCardView(CardView cardView) {
-        this.cardView = cardView;
-    }
 
     public int getImageView() {
         return imageView;

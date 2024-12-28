@@ -16,9 +16,10 @@ import java.util.List;
 public class MiniMenuAdapter extends RecyclerView.Adapter<MiniMenuAdapter.MiniMenuViewHolder> {
 
 
-    private ArrayList<MiniMenu> miniMenus;
+    private final ArrayList<MiniMenu> miniMenus;
 
     public MiniMenuAdapter(ArrayList<MiniMenu> miniMenus) {
+        this.miniMenus = miniMenus;
     }
 
     @NonNull
@@ -47,7 +48,7 @@ public class MiniMenuAdapter extends RecyclerView.Adapter<MiniMenuAdapter.MiniMe
             this.binding = binding;
         }
 
-        @SuppressLint("ResourceType")
+
         public void bind(MiniMenu miniMenu) {
             binding.tvNameFood.setText(miniMenu.getTextView());
             binding.ivPortredFood.setImageResource(miniMenu.getImageView());

@@ -10,6 +10,6 @@
     <color name="btn_color">#F71B33</color>
     <color name="gray">#DEDEDE</color>
     <color name="edit_background">#FFF6F5</color>
-    <color name="background_card">#C4C4C4</color>
+    <color name="background_card">#999999</color>
 
 </resources>
