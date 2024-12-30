@@ -9,7 +9,6 @@ import java.io.Serializable;
 public class MiniMenu implements Serializable   {
     private String textView;
 
-
     private int imageView;
 
     public MiniMenu(String textView, int imageView) {
